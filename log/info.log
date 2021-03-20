@@ -1,0 +1,8 @@
+2021-03-20 18:21:50.154 [main] INFO  com.epam.jwd.model.Point - Creating Point obj
+2021-03-20 18:21:50.156 [main] INFO  com.epam.jwd.model.Point - Creating Point obj
+2021-03-20 18:21:50.156 [main] INFO  com.epam.jwd.model.Point - Creating Point obj
+2021-03-20 18:21:50.156 [main] INFO  com.epam.jwd.model.Point - Creating Point obj
+2021-03-20 18:21:50.156 [main] INFO  com.epam.jwd.app.Main - Obj in points[]: Point{x=1, y=2}
+2021-03-20 18:21:50.156 [main] INFO  com.epam.jwd.app.Main - Obj in points[]: Point{x=3, y=4}
+2021-03-20 18:21:50.156 [main] INFO  com.epam.jwd.app.Main - Obj in points[]: Point{x=5, y=6}
+2021-03-20 18:21:50.156 [main] INFO  com.epam.jwd.app.Main - Obj in points[]: Point{x=7, y=8}
